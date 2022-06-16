@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="description">Course Description</string>
+    <string name="buttonText">Display Nex Course</string>
+</resources>
