@@ -8,10 +8,10 @@
 
  <img src="https://m7madmagdy.github.io/pages/MVPProgress.png" width="200" align="left">
 
-## Advantages of MVP Architecture
-### 1- No conceptual relationship in android components.
-### 2- Easy code maintenance and testing as the application’s model, view, and presenter layer are separated.
+## MVP Advantages
+###### 1- No conceptual relationship in android components.
+###### 2- Easy code maintenance and testing as the application’s model, view, and presenter layer are separated.
 
-## Disadvantages of MVP Architecture
-### If the developer does not follow the single responsibility principle to break the code
-### then the Presenter layer tends to expand to a huge all-knowing class.
+## Disadvantages
+###### 1- If the developer does not follow the single responsibility principle to break the code
+###### then the Presenter layer tends to expand to a huge all-knowing class.
